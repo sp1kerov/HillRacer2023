@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Images
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 2655da7a7c245f04db35412da2e2e558, type: 3}
+    - {fileID: 21300000, guid: cd4f66d2d1a0dd04790938cefe6da6f4, type: 3}
+    - {fileID: 21300000, guid: 54f9d59cc2250c542b35f84f2fe022b5, type: 3}
+    - {fileID: 21300000, guid: b19f4b1943bcf4844902a8bbc9cd3449, type: 3}
+    - {fileID: 21300000, guid: 12eb8a7b2e2c46e4da06453fcb6a4836, type: 3}
+    - {fileID: 21300000, guid: 8454f05167267b8468d2e611a9d17f75, type: 3}
+    - {fileID: 21300000, guid: 5c3da36e35262a94db898959b46bbfea, type: 3}
+    - {fileID: 21300000, guid: 8e6864d10e4549045bbced5a94a8218c, type: 3}
+    - {fileID: 2800000, guid: 0713a98fbcadbff4cb99d2a261701737, type: 3}
+    - {fileID: 2800000, guid: 0408798f88d8e22469f3578a70c6abf9, type: 3}
+    - {fileID: 2800000, guid: 6e551229f37144d42a19cfb2bb3c9eb2, type: 3}
+    - {fileID: 2800000, guid: 715f17b32b54045469932ec391473a8f, type: 3}
+    - {fileID: 2800000, guid: 9cfeb06c0647adc40bb08987e0647e1d, type: 3}
+    - {fileID: 2800000, guid: b79b8d72896e29c4ebd8c4925f51dcb3, type: 3}
+    - {fileID: 2800000, guid: 2307e8eb02c8e5646ab78191d015ddb5, type: 3}
+    - {fileID: 2800000, guid: 4e8f821cb0ceea14d9998385ee23bb15, type: 3}
+    - {fileID: 2800000, guid: b96647619ad97584d8214b07867aa9f5, type: 3}
+    - {fileID: 2800000, guid: 81b65af351468924fa4344dc0ca5d3f0, type: 3}
+    - {fileID: 2800000, guid: 47eaa4f43430bf14f996b113a313b0cc, type: 3}
+    - {fileID: 2800000, guid: 6e551229f37144d42a19cfb2bb3c9eb2, type: 3}
+    - {fileID: 2800000, guid: 0feb15f34bec48a4aa1c473171d135b9, type: 3}
+    - {fileID: 2800000, guid: 0dcdf5b7debd4ba4492217e4975c965e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8454f05167267b8468d2e611a9d17f75, type: 3}
+  - {fileID: 21300000, guid: b96647619ad97584d8214b07867aa9f5, type: 3}
+  - {fileID: 21300000, guid: 8e6864d10e4549045bbced5a94a8218c, type: 3}
+  - {fileID: 21300000, guid: b79b8d72896e29c4ebd8c4925f51dcb3, type: 3}
+  - {fileID: 21300000, guid: cd4f66d2d1a0dd04790938cefe6da6f4, type: 3}
+  - {fileID: 21300000, guid: 715f17b32b54045469932ec391473a8f, type: 3}
+  - {fileID: 21300000, guid: 0feb15f34bec48a4aa1c473171d135b9, type: 3}
+  - {fileID: 21300000, guid: 81b65af351468924fa4344dc0ca5d3f0, type: 3}
+  - {fileID: 21300000, guid: 47eaa4f43430bf14f996b113a313b0cc, type: 3}
+  - {fileID: 21300000, guid: 0dcdf5b7debd4ba4492217e4975c965e, type: 3}
+  - {fileID: 21300000, guid: b19f4b1943bcf4844902a8bbc9cd3449, type: 3}
+  - {fileID: 21300000, guid: 6e551229f37144d42a19cfb2bb3c9eb2, type: 3}
+  - {fileID: 21300000, guid: 2655da7a7c245f04db35412da2e2e558, type: 3}
+  - {fileID: 21300000, guid: 12eb8a7b2e2c46e4da06453fcb6a4836, type: 3}
+  - {fileID: 21300000, guid: 2307e8eb02c8e5646ab78191d015ddb5, type: 3}
+  - {fileID: 21300000, guid: 4e8f821cb0ceea14d9998385ee23bb15, type: 3}
+  - {fileID: 21300000, guid: 9cfeb06c0647adc40bb08987e0647e1d, type: 3}
+  - {fileID: 21300000, guid: 54f9d59cc2250c542b35f84f2fe022b5, type: 3}
+  - {fileID: 21300000, guid: 5c3da36e35262a94db898959b46bbfea, type: 3}
+  - {fileID: 21300000, guid: 0408798f88d8e22469f3578a70c6abf9, type: 3}
+  - {fileID: 21300000, guid: 0713a98fbcadbff4cb99d2a261701737, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - gas_station
+  - coin100
+  - terrain-surface
+  - tachometer
+  - brake_normal
+  - needle
+  - button_resume
+  - coin500
+  - button_100
+  - button_round_130
+  - gas_pressed
+  - button_pause
+  - brake_pressed
+  - fuel-canister
+  - coin5
+  - coin25
+  - speedometer
+  - gas_normal
+  - terrain-ground
+  - distance_icon
+  - gold
+  m_RenderDataMap: {}
+  m_Tag: Images
+  m_IsVariant: 0
